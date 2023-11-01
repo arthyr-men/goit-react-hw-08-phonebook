@@ -1,5 +1,5 @@
 import { TitleHome, Logo } from './Home.styled';
-import phonebook from 'image/phonebook.jpg';
+import phonebook from 'image/clipart489751.png';
 
 export default function Home() {
     return (
